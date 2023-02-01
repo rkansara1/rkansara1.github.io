@@ -1,4 +1,4 @@
-# ECE 4160: Fast Robots
+# ECE 4160: Fast Robots Lab Notebook
 ## Rishi Kansara, rkk58
 
 
